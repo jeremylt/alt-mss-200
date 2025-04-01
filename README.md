@@ -1,2 +1,1 @@
-# alt-mss-200
-The 'banned' bits of Military &amp; Strategic Studies
+Source files for "Alt" MSS 200 - a course based around "people first, mission always"
