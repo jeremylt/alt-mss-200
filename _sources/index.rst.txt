@@ -42,10 +42,15 @@ Course Content
    :caption: Contents:
 
    Lessons/0-Red-Tails.rst
+   Lessons/1-Hidden-Figures.rst
 
 
 About the Instructor
 ********************************************************************************
+
+.. figure:: img/author.webp
+   :alt: Author photo
+   :width: 400px
 
 I grew up in an Air Force family and attended the  `United States Air Force Academy <https://www.usafa.edu>`_ (USAFA).
 After graduation, I served as an Advanced Weapons System Analyst at Barksdale AFB in the `49th Test and Evaluation Squadron <https://en.wikipedia.org/wiki/49th_Test_and_Evaluation_Squadron>`_, testing the `Air Launched Cruise Missile <https://en.wikipedia.org/wiki/Air-launched_cruise_missile>`_ and providing annual planning factors data on aircraft based nuclear weapons to `U.S. Strategic Command <https://en.wikipedia.org/wiki/United_States_Strategic_Command>`_.
