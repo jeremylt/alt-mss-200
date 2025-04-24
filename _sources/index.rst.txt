@@ -43,6 +43,7 @@ Course Content
 
    Lessons/0-Red-Tails.rst
    Lessons/1-Hidden-Figures.rst
+   Lessons/2-54th-Mass.rst
 
 
 About the Instructor
