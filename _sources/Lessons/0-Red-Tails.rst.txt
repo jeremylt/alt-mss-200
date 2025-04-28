@@ -15,8 +15,6 @@ Materials
 
 - `The Tuskegee Airmen (1995 movie) <https://www.justwatch.com/us/movie/the-tuskegee-airmen>`_
 
-- `Red Tails (2012 movie) <https://www.justwatch.com/us/movie/red-tails>`_
-
 - `Rise Above: The Story of the Tuskegee Airmen (book) <https://store.redtail.org/collections/books-tuskegee-airmen/products/book-a-set-of-20-booklets-triumph-over-adversity-rise-above-the-story-of-the-tuskegee-airmen>`_
 
 - `The Tuskegee Airman (book) <https://store.redtail.org/collections/books-tuskegee-airmen/products/the-tuskegee-airmen>`_
@@ -26,6 +24,7 @@ Assignment
 --------------------------------------------------------------------------------
 
 Four ways to learn about the Red Tails are given above.
+The 2012 movie Red Tails is `less accurate <https://screenrant.com/war-movies-experts-criticized-military-mistakes/>`_ and should not be consulted as a source.
 Select at least one of the sources given above, or an alternative source.
 On the social media platform of your choice, make a post or series of posts answering the following questions:
 
