@@ -5,7 +5,7 @@
    :alt: 54th Massachusetts emblem
    :width: 200px
 
-The `54th Massachusetts <https://en.wikipedia.org/wiki/54th_Massachusetts_Infantry_Regiment>`_ was the second African-American regiment in the US military.
+The `54th Massachusetts <https://en.wikipedia.org/wiki/54th_Massachusetts_Infantry_Regiment>`_ was the second African-American regiment in the U.S. military.
 Content related to Sgt. William Carney, a member of the 54th Massachusetts who was awarded the Medal of Honor, was `removed from DoD websites <https://taskandpurpose.com/news/soldier-movie-glory-erased>`_ in accordance with a purge of all diversity related content.
 
 
