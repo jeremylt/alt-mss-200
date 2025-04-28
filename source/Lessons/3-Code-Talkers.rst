@@ -14,7 +14,7 @@ Materials
 
 - `Navajo Code Talkers of World War II (2018 documentary) <https://www.youtube.com/watch?v=OALBG9Rb5cc>`_
 
-- `Unsung Heroes of World War II The Story of the Navajo Code Talkers (1891 book) <https://archive.org/details/unsungheroesofwo0000durr>`_
+- `Unsung Heroes of World War II The Story of the Navajo Code Talkers (1998 book) <https://archive.org/details/unsungheroesofwo0000durr>`_
 
 
 Assignment
