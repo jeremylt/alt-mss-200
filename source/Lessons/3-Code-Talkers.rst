@@ -33,7 +33,7 @@ What sticks with you the most strongly?
 Discuss the importance of understanding and adapting to cultural practices and religious beliefs for people you're supporting.
 
 3. A common theme in the personal stories of the Code Talkers is the hardships they faced growing up due to the actions of the U.S. government.
-Discuss what it might feel like for you to sign up to serve in the U.S. military after growing up with the sort of adversity faced by the Code Talkers and given the history between indigenous people and the U.S. military
+Discuss what it might feel like for you to sign up to serve in the U.S. military after growing up with the sort of adversity faced by the Code Talkers and given the history between indigenous people and the U.S. military.
 
 Bonus: It is rather difficult to locate resources on the contributions of indigenous people, even when compared to other systemically marginalized groups.
 The video resource for this lesson was a documentary instead of a major motion picture, for example.

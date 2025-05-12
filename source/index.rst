@@ -45,6 +45,7 @@ Course Content
    Lessons/1-Hidden-Figures.rst
    Lessons/2-54th-Mass.rst
    Lessons/3-Code-Talkers.rst
+   Lessons/4-My-Lai.rst
 
 
 About the Instructor
