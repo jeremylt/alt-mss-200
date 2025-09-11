@@ -12,7 +12,7 @@ The `attempted coverup <https://www.britannica.com/event/My-Lai-Massacre/Cover-u
 Materials
 --------------------------------------------------------------------------------
 
-- `American Experience - My Lai (2010 documentary) <https://youtu.be/kDh1isMZMTM>`_
+- `American Experience - My Lai (2010 documentary) <https://www.youtube.com/watch?v=kDh1isMZMTM>`_
 
 - `Moral Courage In Combat: The My Lai Story (2003 speech book) <https://web.archive.org/web/20070221172507/https://www.usna.edu/Ethics/publications/ThompsonPg1-28_Final.pdf>`_
 
